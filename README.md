@@ -43,6 +43,12 @@ Lead Systems Architect & DevSecOps Consultant. Designing high-throughput backend
 
 # 📊 Production Activity & Telemetry
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DiegoMcDowell/DiegoMcDowell/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DiegoMcDowell/DiegoMcDowell/output/github-snake.svg">
+  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/DiegoMcDowell/DiegoMcDowell/output/github-snake-dark.svg">
+</picture>
+
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=DiegoMcDowell&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=DiegoMcDowell&theme=github_dark&hide_border=true" alt="Streak Stats" />
